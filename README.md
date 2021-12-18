@@ -1,3 +1,5 @@
+!!! THIS USES YOUR SELLER KEY! YOU MUST HAVE SELLER IN ORDER TO USE THIS SETUP!!! It's $19.99/YR - MAKE SURE YOU PROTECT YOUR CODE SINCE YOU CAN DO A LOT WITH A SELLER KEY!!!
+
 This will allow you to let users register on your application without entering a key. Go through Form1.cs to see how it's setup... it's really easy.
 However, if you are having issues just let me know (IT'S ɴᴇᴛᴡᴏʀᴋɪɴɢ#6912).
 
